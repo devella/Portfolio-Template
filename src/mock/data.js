@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
+  img: 'me.jpg',
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
@@ -29,11 +29,12 @@ export const projectsData = [
   {
     id: uuidv1(),
     img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    title: 'Robot Friends',
+    info: 'A clean, beautiful and responsive portfolio template for Developers!',
+    info2:
+      'This project was highlighted in one of the highest valorated courses on Udemy, called Zero To Mastery.',
+    url: 'https://devella.github.io/robot-friends/',
+    repo: 'https://github.com/devella/robot-friends', // if no repo, the button will not show up
   },
   {
     id: uuidv1(),
@@ -90,5 +91,5 @@ export const footerData = {
 
 // Github start/fork buttons
 export const githubButtons = {
-  isEnabled: true, // set to false to disable the GitHub stars/fork buttons
+  isEnabled: false, // set to ture to set the GitHub stars/fork buttons
 };
