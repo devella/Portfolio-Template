@@ -39,20 +39,20 @@ export const projectsData = [
   {
     id: uuidv1(),
     img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    title: 'Robot Friends',
+    info: 'A clean, beautiful and responsive portfolio template for Developers!',
+    info2: 'This project was highlighted in one of the highest valorated courses on Udemy, called Zero To Mastery.',
+    url: 'https://devella.github.io/robot-friends/',
+    repo: 'https://github.com/devella/robot-friends', // if no repo, the button will not show up
   },
   {
     id: uuidv1(),
     img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    title: 'Robot Friends',
+    info: 'A clean, beautiful and responsive portfolio template for Developers!',
+    info2: 'This project was highlighted in one of the highest valorated courses on Udemy, called Zero To Mastery.',
+    url: 'https://devella.github.io/robot-friends/',
+    repo: 'https://github.com/devella/robot-friends', // if no repo, the button will not show up
   },
 ];
 
