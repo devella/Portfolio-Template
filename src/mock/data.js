@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: 'https://www.myperfectresume.com/', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -41,7 +41,8 @@ export const projectsData = [
     img: 'project.jpg',
     title: 'Robot Friends',
     info: 'A clean, beautiful and responsive portfolio template for Developers!',
-    info2: 'This project was highlighted in one of the highest valorated courses on Udemy, called Zero To Mastery.',
+    info2:
+      'This project was highlighted in one of the highest valorated courses on Udemy, called Zero To Mastery.',
     url: 'https://devella.github.io/robot-friends/',
     repo: 'https://github.com/devella/robot-friends', // if no repo, the button will not show up
   },
@@ -50,7 +51,8 @@ export const projectsData = [
     img: 'project.jpg',
     title: 'Robot Friends',
     info: 'A clean, beautiful and responsive portfolio template for Developers!',
-    info2: 'This project was highlighted in one of the highest valorated courses on Udemy, called Zero To Mastery.',
+    info2:
+      'This project was highlighted in one of the highest valorated courses on Udemy, called Zero To Mastery.',
     url: 'https://devella.github.io/robot-friends/',
     repo: 'https://github.com/devella/robot-friends', // if no repo, the button will not show up
   },
